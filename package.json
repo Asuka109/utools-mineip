@@ -1,0 +1,11 @@
+{
+  "name": "utools-mineip",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Asuka109",
+  "license": "MIT",
+  "homepage": "https://github.com/Asuka109/utools-mineip",
+  "dependencies": {
+    "got": "^11.8.0"
+  }
+}
